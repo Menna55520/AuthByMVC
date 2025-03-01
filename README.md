@@ -1,7 +1,7 @@
 # AuthenticationMVC
 
 ## Description
-`AuthenticationMVC` is an enhanced authentication project built using a custom MVC (Model-View-Controller) framework I developed in my previous repository ([https://github.com/Menna55520/MVCFramework.git](MVCFramework)). This project leverages that mini framework to implement a complete user authentication system, including account creation (signup), login, and logout functionalities. It represents an improved version of my earlier `AuthenticationMVC` project, with refined features, better structure, and additional capabilities.
+`AuthenticationMVC` is an enhanced authentication project built using a custom MVC (Model-View-Controller) framework I developed in my previous repository ([MVCFramework](https://github.com/Menna55520/MVCFramework.git)). This project leverages that mini framework to implement a complete user authentication system, including account creation (signup), login, and logout functionalities. It represents an improved version of my earlier `AuthenticationMVC` project, with refined features, better structure, and additional capabilities.
 
 The goal was to apply my understanding of the MVC design pattern to create a practical web application. This version enhances the original by adding a fully functional login/logout system alongside the existing signup feature, improving code organization, and optimizing the routing system for better request handling. It’s a step forward in my learning journey with PHP, MVC, and web development.
 
