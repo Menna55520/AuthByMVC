@@ -48,3 +48,7 @@ The goal was to apply my understanding of the MVC design pattern to create a pra
 - Many features could be added, such as password encryption (e.g., using hashing like bcrypt), stronger validation rules, or more robust session management.
 - My focus was on keeping it minimal and clear to highlight the MVC structure and workflow, making it a foundation that can be expanded with additional functionalities as needed.
 
+---
+## Templates Used
+- **[BootStrap Examples](https://getbootstrap.com/docs/4.0/examples/)** : i used cover for home page view and sign-in in processes create accout and login views
+
